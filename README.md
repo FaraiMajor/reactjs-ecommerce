@@ -40,6 +40,7 @@ Very Rare is the Fully functional Real custom made Web application that covers a
 </p>
 <details>
 <summary><h3>Snapshots of App</h3></summary>    
+
 <p align="center">
     <h3 color="red">HOME PAGE</h3>
     <img src="https://i.ibb.co/3hFF58X/main.png" width="80%">
@@ -63,16 +64,16 @@ Very Rare is the Fully functional Real custom made Web application that covers a
     <img src="https://i.ibb.co/XjYX5NW/checkout.png" width="80%">
     </br>
       <h3 color="red">EMPTY CHECKOUT PAGE</h3>
-     <img src="https://i.ibb.co/k84vr2s/searchresultsnone.png" width="80%">
+     <img src="https://i.ibb.co/n1kh7GY/emptycheckout.png" width="80%">
      </br>
     <h3 color="red">SEARCH</h3>
      <img src="https://i.ibb.co/jW0tbfP/search.png" width="80%">
      </br>
      <h3 color="red">SEARCH RESULTS</h3>
-     <img src="https://i.ibb.co/jW0tbfP/search.png" width="80%">
+     <img src="https://i.ibb.co/tL1H6Nm/searchresult.png" width="80%">
      </br>
      <h3 color="red">NO SEARCH RESULTS FOUND</h3>
-     <img src="https://i.ibb.co/tL1H6Nm/searchresult.png" width="80%">
+     <img src="https://i.ibb.co/k84vr2s/searchresultsnone.png" width="80%">
      </br>
      <h3 color="red">FOOTER</h3>
      <img src="https://i.ibb.co/wgngrVr/footer.png" width="80%">   
