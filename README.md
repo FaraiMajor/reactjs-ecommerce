@@ -36,38 +36,46 @@ Very Rare is the Fully functional Real custom made Web application that covers a
 
 ### :camera: A demo of the Web App
 <p align="center">
-<img src="very-rare.gif" ">
+<img src="veryrare.gif" ">
 </p>
 <details>
-<summary><h3>Snapshots of App</h3></summary>
-    
+<summary><h3>Snapshots of App</h3></summary>    
 <p align="center">
     <h3 color="red">HOME PAGE</h3>
-    <img src="https://i.ibb.co/m9wvMrs/main.png" width="80%">
+    <img src="https://i.ibb.co/3hFF58X/main.png" width="80%">
     </br>
         <h3 color="red">AUTHENTICATION PAGE</h3>
-    <img src="https://i.ibb.co/P49W9vw/auth.png" width="80%">
+    <img src="https://i.ibb.co/k2QDsYh/auth.png" width="80%">
     </br>
         <h3 color="red">MENU</h3>
-    <img src="https://i.ibb.co/2gGQyRQ/burger.png" width="80%">
+    <img src="https://i.ibb.co/HtD9FhY/burger.png" width="80%">
     </br>
       <h3 color="red">SORT ITEMS</h3>
-     <img src="https://i.ibb.co/Xy9Tw8Q/sortitems.png" width="80%">
+     <img src="https://i.ibb.co/cXztjR9/sortitems.png" width="80%">
      </br>
         <h3 color="red">FEATURES ITEMS</h3>
-    <img src="https://i.ibb.co/425G6MG/featured.png" width="80%">
+    <img src="https://i.ibb.co/Jkfyt1P/featured.png" width="80%">
     </br>
         <h3 color="red">SHOPPING CART</h3>
-    <img src="https://i.ibb.co/wrY9pr4/shopping-cart.png" width="80%">
+    <img src="https://i.ibb.co/2MWVFFJ/shopping-cart.png" width="80%">
     </br>
         <h3 color="red">CHECKOUT PAGE</h3>
-    <img src="https://i.ibb.co/cCdvRGB/checkout.png" width="80%">
+    <img src="https://i.ibb.co/XjYX5NW/checkout.png" width="80%">
     </br>
-        <h3 color="red">EMPTY CHECKOUT PAGE</h3>
-     <img src="https://i.ibb.co/jfv3x2w/emptycheckout.png" width="80%">
+      <h3 color="red">EMPTY CHECKOUT PAGE</h3>
+     <img src="https://i.ibb.co/k84vr2s/searchresultsnone.png" width="80%">
+     </br>
+    <h3 color="red">SEARCH</h3>
+     <img src="https://i.ibb.co/jW0tbfP/search.png" width="80%">
+     </br>
+     <h3 color="red">SEARCH RESULTS</h3>
+     <img src="https://i.ibb.co/jW0tbfP/search.png" width="80%">
+     </br>
+     <h3 color="red">NO SEARCH RESULTS FOUND</h3>
+     <img src="https://i.ibb.co/tL1H6Nm/searchresult.png" width="80%">
      </br>
      <h3 color="red">FOOTER</h3>
-     <img src="https://i.ibb.co/9nD01cz/footer.png" width="80%">   
+     <img src="https://i.ibb.co/wgngrVr/footer.png" width="80%">   
 </p>
 </details>
 
